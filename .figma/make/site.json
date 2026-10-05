@@ -1,0 +1,10 @@
+{
+  "description": "Engage with a modern chatbot featuring customizable themes, conversation bubbles, and file sharing for simple, nostalgic AI interactions inspired by Eliza.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
